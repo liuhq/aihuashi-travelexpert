@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Menu.fire",orientation:"",jsList:[],bundleVers:{internal:"198ac",resources:"090a0",main:"e2c4f"}};
